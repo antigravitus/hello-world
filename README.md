@@ -1,4 +1,6 @@
 # hello-world
 Learning about Git and GitHub, and how to use them.
 
-This is a bit about myself.
+It is too a bit about myself.
+
+You're a jerk.
